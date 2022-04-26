@@ -7,7 +7,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 /**
- * @author xie yang 2021/10/27
+ * @author xie yang 2022/04/25
  */
 public class MlflowRestApi {
     public int mlPredict(float[] df) throws Exception{

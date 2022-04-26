@@ -2,7 +2,7 @@ package utils;
 
 import java.time.Instant;
 /**
- * @author 2021-10-18
+ * @author 2022-04-25
  */
 public class MachineToolWearData {
     public String id;

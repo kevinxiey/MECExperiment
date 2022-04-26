@@ -14,7 +14,7 @@ import java.sql.PreparedStatement;
 import java.sql.Timestamp;
 
 /**
- * @author yang 2021/10/19
+ * @author yang 2022/04/25
  */
 public class PostgreSQLSink extends RichSinkFunction<Row> {
     private static final long serialVersionUID = 1L;

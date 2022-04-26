@@ -3,7 +3,7 @@ package utils;
 import org.apache.flink.table.functions.AggregateFunction;
 
 /**
- * @author yang 2021/10/19
+ * @author yang 2022/04/25
  *
  */
 public class CountUDAF extends AggregateFunction<Long, CountUDAF.CountAccum> {

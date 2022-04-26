@@ -10,7 +10,7 @@ import org.apache.flink.types.Row;
 import java.sql.Timestamp;
 
 /**
- * @author yang 2021/10/25
+ * @author yang 2022/04/25
  */
 public class WearStatePredictSink extends RichSinkFunction<Row> {
     private static final long serialVersionUID = 1L;

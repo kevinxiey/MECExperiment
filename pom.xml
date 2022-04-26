@@ -23,8 +23,8 @@ under the License.
 	<modelVersion>4.0.0</modelVersion>
 
 
-	<groupId>machinetoolweardetection</groupId>
-	<artifactId>machinetoolweardetection</artifactId>
+	<groupId>machineworkingstatusdetection</groupId>
+	<artifactId>machineworkingstatusdetection</artifactId>
 	<version>0.2</version>
 	<packaging>jar</packaging>
 
